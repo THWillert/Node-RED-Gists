@@ -1,5 +1,5 @@
 # Node-RED-Gists
-Sammlung an Nodes und Flows für Node-RED
+Meine Sammlung an Nodes und Flows für Node-RED:
 
 - [Send FRITZ!Box call list as CSV file via e-mail.](https://gist.github.com/THWillert/fde4def3196fef7d278252df1e11243a)
 
